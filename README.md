@@ -1,3 +1,7 @@
-Hoşgeldiniz
+<h3>Hoşgeldiniz</h3>
 
-İlgi alanım python
+İnşaat Mühendisi ve Bilgisayar Programcısıyım.
+
+İlgi alanım python, algoritmalar, veri analizi.
+
+ben aslında her alanda <strong>programlamayı</strong> seviyorum.
