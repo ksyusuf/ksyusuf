@@ -1,7 +1,7 @@
 Hoş Geldiniz.
 <h1 align="center">Yusuf Akçakaya</h1>
 <h2 align="center">Bilgisayar Programcısı</h2>
-<h3 align="center">Backend yönelimli çalışmalar yürütüyorum. Kodlamayı, algoritmaları, veri analizlerini ve görselleştirmeleri seviyorum.</h3>
+<p align="center">Backend yönelimli çalışmalar yürütüyorum. Kodlamayı, algoritmaları, veri analizlerini ve görselleştirmeleri seviyorum.</p>
 
 <div align="center">
     <a href="https://github.com/ksyusuf">
