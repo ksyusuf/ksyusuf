@@ -5,12 +5,6 @@ Hoş Geldiniz.
 
 <div align="center">
     <a href="https://github.com/ksyusuf">
-      <img src="https://github-readme-stats.vercel.app/api?username=ksyusuf&theme=outrun&show_icons=true" width="49%" />
+      <img src="https://githubcard.com/g/0owJwlcT.svg" width="49%" />
     </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ksyusuf/notetut">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ksyusuf&repo=notetut&cache_seconds=86400&theme=outrun" width="49%" />
-  </a>
 </div>
